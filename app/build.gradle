@@ -18,4 +18,6 @@ dependencies {
     compile project(':googleplussignin')
     compile project(':googlegcm')
     compile project(':googleads')
+    compile project(':googlenearby')
+    compile project(':googleanalytics')
 }

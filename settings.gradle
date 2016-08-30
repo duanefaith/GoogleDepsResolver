@@ -1,1 +1,1 @@
-include ':app', ':googlesignin', ':googleplussignin', ':googlegcm', ':googleads', ':googlenearby'
+include ':app', ':googlesignin', ':googleplussignin', ':googlegcm', ':googleads', ':googlenearby', ':googleanalytics'
